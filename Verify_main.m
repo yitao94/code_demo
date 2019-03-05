@@ -9,8 +9,8 @@
 % which deletes the changed order of Fares' 8*8 64P2D DWHT function, then
 % applies Yitao's order in 16*16 256P2D DWHT function.
 %
-% Fares Charfi   Matrikelnummer 03662038,
-% Yitao Jin   Matrikelnummer 03680500,
+% Fares Charfi   Matrikelnummer ******,
+% Yitao Jin   Matrikelnummer ******,
 %
 % Function: DWHT_4P2D_lossless;
 %           DWHT_64P2D;
